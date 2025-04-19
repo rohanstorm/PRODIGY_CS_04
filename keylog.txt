@@ -1,0 +1,2 @@
+2025-04-20 00:06:48,885: Special key Key.esc pressed
+2025-04-20 00:14:30,567: Special key Key.esc pressed
